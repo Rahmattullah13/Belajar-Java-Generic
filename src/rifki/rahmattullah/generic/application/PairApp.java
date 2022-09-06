@@ -1,6 +1,6 @@
 package rifki.rahmattullah.generic.application;
 
-import rifki.rahmattullah.generic.Pair;
+import rifki.rahmattullah.generic.util.Pair;
 
 public class PairApp {
     public static void main(String[] args) {

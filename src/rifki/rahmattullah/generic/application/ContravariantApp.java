@@ -1,6 +1,6 @@
 package rifki.rahmattullah.generic.application;
 
-import rifki.rahmattullah.generic.MyData;
+import rifki.rahmattullah.generic.util.MyData;
 
 public class ContravariantApp {
     public static void main(String[] args) {

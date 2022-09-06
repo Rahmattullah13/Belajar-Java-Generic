@@ -1,4 +1,4 @@
-package rifki.rahmattullah.generic;
+package rifki.rahmattullah.generic.util;
 
 public class Pair<T, U> {
 
@@ -6,7 +6,7 @@ public class Pair<T, U> {
 
     private U second;
 
-    public Pair(T first, U second){
+    public Pair(T first, U second) {
         this.first = first;
         this.second = second;
     }

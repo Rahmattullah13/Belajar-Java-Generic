@@ -1,6 +1,6 @@
-package rifki.rahmattullah.generic;
+package rifki.rahmattullah.generic.util;
 
-public class MyData<T>{
+public class MyData<T> {
 
     private T data;
 
